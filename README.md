@@ -1,7 +1,7 @@
 # HWS Projects
 
 ## Storm Viewer
-### Select an image to view from a list of images
+### Creating a list of images and viewing them
 
 * Using `FileManager` to grab and list images
 * Designing a UI using Interface Builder
